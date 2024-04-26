@@ -26,7 +26,7 @@ Before running the code, ensure that you have the following prerequisites:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-repo/generative-ai-clinical-intelligence.git
+git clone https://github.com/aws-samples/aws-contextual-answers
 ```
 
 2. Install the required Python packages:
